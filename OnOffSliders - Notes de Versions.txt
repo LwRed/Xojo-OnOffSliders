@@ -1,0 +1,9 @@
+On Off Sliders - SoftSteph ;)
+***
+
+v.01 du 10/11/2019
+Clarification du Code
+Première version
+
+A faire :
+Transformer en .RBO
